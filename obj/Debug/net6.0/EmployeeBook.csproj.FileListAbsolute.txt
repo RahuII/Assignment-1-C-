@@ -1,0 +1,15 @@
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\bin\Debug\net6.0\EmployeeBook.exe
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\bin\Debug\net6.0\EmployeeBook.deps.json
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\bin\Debug\net6.0\EmployeeBook.runtimeconfig.json
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\bin\Debug\net6.0\EmployeeBook.dll
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\bin\Debug\net6.0\EmployeeBook.pdb
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\EmployeeBook.csproj.AssemblyReference.cache
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\EmployeeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\EmployeeBook.AssemblyInfoInputs.cache
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\EmployeeBook.AssemblyInfo.cs
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\EmployeeBook.csproj.CoreCompileInputs.cache
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\EmployeeBook.dll
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\refint\EmployeeBook.dll
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\EmployeeBook.pdb
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\EmployeeBook.genruntimeconfig.cache
+C:\RahulKumar\VisualStudio\EmployeeBook\EmployeeBook\obj\Debug\net6.0\ref\EmployeeBook.dll
